@@ -1,6 +1,6 @@
 import { useState, useEffect } from "react";
 import './App.css';
-import Button from './components/Button/Button';
+// import Button from './components/Button/Button';
 import Card from './components/Card/Card';
 import Cart from './components/Cart/Cart';
 const {getData} = require('./db/db');
