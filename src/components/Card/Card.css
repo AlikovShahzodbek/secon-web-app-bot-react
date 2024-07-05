@@ -10,7 +10,7 @@
     height: 200px;
     border: 2px solid var(--primary-color);
     padding: 0.5rem 0.3rem;
-    margin: 5px;
+    margin: 15px 10px;
     position: relative;
     border-radius: 5px;
   }
